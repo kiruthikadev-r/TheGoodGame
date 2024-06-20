@@ -1,0 +1,18 @@
+.pokemon-list-item-container {
+    text-align: center;
+  }
+  
+  .search-input {
+    margin-bottom: 20px;
+    padding: 8px;
+    font-size: 16px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+  }
+  
+  .pokemon-list {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  
